@@ -1,75 +1,84 @@
+<h1 align="center">🚀 Lucas Gorini</h1>
+<h3 align="center">Full-Stack Developer | Building scalable & real-world web apps</h3>
 
+<p align="center">
+  <a href="https://lucasgoriniportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Schenvz">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge" />
+  </a>
+</p>
 
-<h1 align="center">hey there 👋</h1>
+---
 
-###
+## 🧠 About Me
 
-<h3 align="left">👩‍💻  About Me</h3>
+I'm a Full-Stack Developer based in Argentina 🇦🇷  
+Focused on building **functional, scalable, and production-ready applications**.
 
-###
+💡 I don't just code interfaces — I build solutions that **work in real-world scenarios**.
 
-<p align="left">I'm Lucas from Argentina! 🇦🇷<br><br>- 🔭 Currently studying and learning!<br>- 📚 I'm currently learning Fullstack programming (Node-React-mongoDB) <br>⚡ In my free time I play games and make commits!</p>
+- 🎓 Systems Engineering student (UTN)  
+- ⚡ Strong focus on performance & clean architecture  
+- 📈 Always improving and shipping real projects  
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+## 🧩 Tech Stack (What I actually use)
 
-###
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=astro,react,nextjs,ts,nodejs,postgres,tailwind,docker,git" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="40" alt="opera logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
+---
 
-###
+## 🚀 Featured Project
 
-<h3 align="left">🔥   My Stats :</h3>
+### 🔹 Developer Portfolio (Case Study)
 
-###
+👉 https://lucasgoriniportfolio.vercel.app/
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Schenvz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="198" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Schenvz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Schenvz&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+**What I built:**
+- High-performance portfolio with modern UI
+- Clean and scalable architecture
+- SEO optimization & fast loading
 
-###
+**Key Highlights:**
+- ⚡ Optimized performance (Lighthouse-focused)
+- 🧱 Component-based architecture
+- 📱 Fully responsive design
+
+---
+
+## 🎯 Philosophy
+
+> “Build things that actually work in real-world scenarios.”
+
+- Focus on results  
+- Optimize performance  
+- Keep things simple and scalable  
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Schenvz/count.svg?"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Schenvz&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Schenvz&layout=compact&theme=github_dark&hide_border=true" height="180"/>
 </div>
+
+---
+
+## 🤝 Let's Connect
+
+- 🌐 Portfolio: https://lucasgoriniportfolio.vercel.app/  
+- 🧑‍💻 GitHub: https://github.com/Schenvz  
+
+---
+
+## 📌 Status
+
+🚀 Open to opportunities, freelance projects, and collaborations.
 
 ###
